@@ -1,3 +1,5 @@
+// Written by Amber Crowe 
+
 function setup() {
   createCanvas(800, 800);
   colorMode(HSB);
